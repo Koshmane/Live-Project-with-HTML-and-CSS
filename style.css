@@ -119,8 +119,8 @@ video{
 }
    
 .text-3 {
-    display: inline-block;  
-    padding-left: 250px;
+    display: inline-block; 
+    margin-left: 40px;
    
 }
 
@@ -128,7 +128,7 @@ video{
     height: 300px;
     width: 400px;
     margin-top: 100px;
-    margin-left: 120px;
+    margin-left: 20px;
 }
 
 .par-3{
@@ -188,8 +188,8 @@ video{
 .image-5{
     height: 350px;
     width: 450px;
-    margin-top: 60px;
-    margin-left: 120px;
+    margin-top: 80px;
+    margin-left: 20px;
 }
 
 .section-6 {
